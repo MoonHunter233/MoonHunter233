@@ -2,13 +2,14 @@
 
 ###
 
-<img align="left" height="360" src="https://w.wallhaven.cc/full/gp/wallhaven-gpydjq.jpg"  />
+<img align="left" height="550" src="https://w.wallhaven.cc/full/gp/wallhaven-gpydjq.jpg"  />
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoonHunter233&theme=neon&hide_border=true&include_all_commits=false&count_private=true&show_icons=true" width="500" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonHunter233&theme=neon&hide_border=true&include_all_commits=false&count_private=true&layout=compact&show_icons=true" width="500" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MoonHunter233&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="450" alt="stats graph"  />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoonHunter233&theme=radical&hide_border=false" width="500" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonHunter233&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true" width="350" alt="languages graph"  />
 </div>
 
 ###
