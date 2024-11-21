@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="500" src="https://w.wallhaven.cc/full/gp/wallhaven-gpydjq.jpg"  />
+<img align="left" height="487" src="https://w.wallhaven.cc/full/gp/wallhaven-gpydjq.jpg" style="border: 5px solid white;border-radius: 10px"  />
 
 ###
 
