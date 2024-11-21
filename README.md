@@ -6,10 +6,10 @@
 
 ###
 
-
-![](https://github-readme-stats.vercel.app/api?username=MoonHunter233&theme=neon&hide_border=true&include_all_commits=false&count_private=true)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonHunter233&theme=neon&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoonHunter233&theme=neon&hide_border=true&include_all_commits=false&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonHunter233&theme=neon&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="130" alt="languages graph"  />
+</div>
 
 ###
 
@@ -25,6 +25,7 @@
 
 ###
 
+##
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
   <img width="12" />
