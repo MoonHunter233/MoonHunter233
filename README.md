@@ -11,7 +11,7 @@
 
    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoonHunter233&theme=radical&hide_border=false" width="400" alt="stats graph"  /> -->
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonHunter233&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true" width="420" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonHunter233&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true" width="350" alt="languages graph"  />
 </div>
 
 ###
